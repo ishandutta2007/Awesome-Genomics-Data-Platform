@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Genomics-Data-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Genomics-Data-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Genomics-Data-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Genomics-Data-Platform?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Genomics-Data-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Genomics-Data-Platform?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Genomics-Data-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Genomics-Data-Platform?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -53,7 +53,7 @@ Welcome to the **Awesome Genomics Data Platform** repository! 🚀 This is a cur
 
 ## 🔓 Open-Source GitHub Projects
 
-Below are top open-source workflow engines, bioinformatic repositories, and data platform frameworks sorted by GitHub stars ⭐:
+Below are top open-source workflow engines, bioinformatic repositories, and data platform frameworks sorted by GitHub_Stars ⭐:
 
 - **[Nextflow](https://github.com/nextflow-io/nextflow)** [![Stars](https://img.shields.io/github/stars/nextflow-io/nextflow?style=social&color=white)](https://github.com/nextflow-io/nextflow/stargazers)  
   *Open-source workflow system for scalable, reproducible scientific pipelines, with first-class container (Docker/Singularity) and cloud support.*
